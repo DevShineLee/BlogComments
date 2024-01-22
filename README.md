@@ -1,2 +1,2 @@
 ## Comments on
-# [Shine's Blog](http://www.devshinelee.github.io)
+# [Shine's Blog](https://devshinelee.github.io/)
